@@ -5,7 +5,7 @@
 - I am seeking new opportunities to apply my skills and contribute to challenging projects in the data field
 
 ## Data Analytics Portfolio
-- Click here to see (EN)
+- Click here to see [(EN)](https://github.com/lureba/Data-Analysis-Portfolio/tree/main)
 - Click here to see [(PT)](https://github.com/lureba/Portf-lio-Analise-de-Dados)
 <!--
 **lureba/lureba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
