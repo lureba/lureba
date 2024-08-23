@@ -5,7 +5,7 @@
 - I am seeking new opportunities to apply my skills and contribute to challenging projects in the data field
 
 ## Data Analytics Portfolio
-    **My data analysis portfolio is shown below**:
+    My data analysis portfolio is shown below:
 -
 -
 <!--
